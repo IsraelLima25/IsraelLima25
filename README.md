@@ -3,7 +3,7 @@
 ### Software Analyst and Developer!
 
 - 🔭 I am currently working on a personal project
-- 🌱 I am currently learning machine learning
+- 🌱 I am currently learning machine learning and service oriented architecture
 - 👯 I'm looking to collaborate on Java and JavaScript projects
 - ⚡ Curiosity: I like to practice physical activity and take courses online
 
@@ -26,7 +26,7 @@
 </code>](https://spring.io/)
 [<code>
 <img alt="java" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuI0SMwHWC873pRn7VwX80iG5v7Fj_CJsBDw&usqp=CAU">
-</code>](https://spring.io/)
+</code>](https://angular.io/)
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
