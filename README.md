@@ -2,10 +2,9 @@
 
 ### Software Analyst and Developer!
 
-- 🔭 I am currently working on a personal project
-- 🌱 I am currently learning machine learning and service oriented architecture
+- 🔭 I'm currently working as a full stack developer
+- 🌱 I am currently interested in learning about microservices, messaging services and containers.
 - 👯 I'm looking to collaborate on Java and JavaScript projects
-- ⚡ Curiosity: I like to practice physical activity and take courses online
 
 ### Contact information: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
