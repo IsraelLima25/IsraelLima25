@@ -2,7 +2,7 @@
 
 ### Software Analyst and Developer!
 
-- 🔭 I'm currently working as a full stack developer
+- 🔭 I'm currently working as a FullStack developer
 - 🌱 I am currently interested in learning about microservices, messaging services and containers.
 - 👯 I'm looking to collaborate on Java and JavaScript projects
 
