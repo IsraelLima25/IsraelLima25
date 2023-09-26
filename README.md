@@ -19,5 +19,3 @@
 [github]: https://github.com/IsraelLima25
 [linkedin]: https://www.linkedin.com/in/israelsantoslima
 [whatsapp]: https://api.whatsapp.com/send?1=pt_BR&phone=5571983300545
-
-
